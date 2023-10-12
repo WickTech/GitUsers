@@ -5,7 +5,7 @@ A GitHub repo to search users in GitHub that uses elastic search to display user
 
 Backend - Node.js\
 Frontend - React\
-API - Axios and Github API\
+API - Axios and Github API
 
 ### Deployment
 Vercel - https://git-users-iota.vercel.app/
